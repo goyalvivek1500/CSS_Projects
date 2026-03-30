@@ -1,0 +1,25 @@
+*
+{
+    padding:0px;
+    margin:0px;
+}
+#container
+{
+    height:200px;
+    width:300px;
+    position:relative;
+    top:300px;
+    left:400px;
+    border:2px solid black;
+    box-shadow:10px 10px 10px rgb(238, 137, 130);
+}
+.box
+{
+    background-color:red;
+    height:100px;
+    width:100px;
+    position:absolute;
+    top:50px;
+    left:100px;
+    border-radius:50%;
+}
